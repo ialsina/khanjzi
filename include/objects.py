@@ -52,6 +52,9 @@ class Container:
         assert isinstance(item, self.kind)
         self.items.append(item)
     
+    def remove(self, item):
+        self.items.remove(item)
+    
     def get(self, attr):
         try:
             return [getattr(el, attr) for el in self.items]

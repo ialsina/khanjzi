@@ -8,6 +8,7 @@ Created on Sat Dec 26 15:58:30 2020
 from tqdm import tqdm
 from time import sleep
 from os import path
+from copy import deepcopy
 
 from include.objects import Kanji, Hanzi, Container
 
@@ -44,15 +45,22 @@ sleep(0.5)
 matches_kanji = Container(Kanji)
 matches_hanzi = Container(Hanzi)
 
+unmatch_kanji = Container(Kanji)
+unmatch_hanzi = deepcopy(hanzi)
+
 for k in iter(kanji):
     kk = k.oldest()
-    for h in hanzi:
+    for h in unmatch_hanzi:
         hh = h.trad
         
         if kk == hh:
             matches_kanji.append(k)
             matches_hanzi.append(h)
+            unmatch_hanzi.remove(h)
             break
+    
+    else:
+        unmatch_kanji.append(k)
     
 ###########################################################
 
