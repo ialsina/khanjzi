@@ -16,8 +16,8 @@ path_hanzi = path.join(path.curdir, 'hanzi.txt')
 path_output = path.join(path.curdir, 'output.txt')
 
 
-kanji = []
-hanzi = []
+kanji = Container(Kanji)
+hanzi = Container(Hanzi)
 
 # Import ##################################################
 with open(path_kanji,'r',encoding='UTF-8') as f:
@@ -41,29 +41,27 @@ print(f"Looking for matches...")
 sleep(0.5)
 
 # Compare #################################################
-matches_id = []
-matches_symb = []
-matches = []
+matches_kanji = Container(Kanji)
+matches_hanzi = Container(Hanzi)
 
-for k in kanji:
+for k in iter(kanji):
     kk = k.oldest()
     for h in hanzi:
         hh = h.trad
         
         if kk == hh:
-            matches_id.append((k.id, h.id))
-            matches_symb.append((kk, hh))
-            matches.append((k, h))
+            matches_kanji.append(k)
+            matches_hanzi.append(h)
             break
     
 ###########################################################
 
-print(f"{len(matches_id)} matches found!")
+print(f"{len(matches_kanji)} matches found!")
 
 # Export ##################################################
 with open(path_output,'w',encoding='UTF-8') as f:
     f.write("#Common\tKanji\tSimpl.\tKun'yomi\tOn'yomi\tPinyin\n")
-    for (k, h) in matches:
+    for (k, h) in zip(matches_kanji, matches_hanzi):
         lineout = [k.oldest(), k.shin, h.simp, k.kunyomi, k.onyomi, h.pinyin]
         f.write('\t'.join(lineout)+'\n')
 ###########################################################
@@ -71,10 +69,10 @@ with open(path_output,'w',encoding='UTF-8') as f:
 print('Matches exported')
 
 # Stats ###################################################
-id_match_kanji = sorted([el[0] for el in matches_id])
-id_match_hanzi = sorted([el[1] for el in matches_id])
-range_match = list(range(len(matches_id)))
-normal_match = [el/len(matches_id)*100 for el in range_match]
+id_match_kanji = matches_kanji.sort('id')
+id_match_hanzi = matches_hanzi.sort('id')
+range_match = list(range(len(matches_kanji)))
+normal_match = [el/len(matches_kanji)*100 for el in range_match]
 
 import matplotlib.pyplot as plt
 

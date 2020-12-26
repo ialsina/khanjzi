@@ -20,7 +20,7 @@ class Kanji:
     def oldest(self):
         return self.kyuu or self.shin
     
-    def __repr__(self):
+    def __str__(self):
         return f"""Id:\t{self.id}\nKanji:\t{self.shin}\nOn'yomi:\t{self.onyomi}\nKun'yomi:\t{self.kunyomi}\n"""
 
 class Hanzi:
@@ -31,14 +31,22 @@ class Hanzi:
         self.trad = linels[2]
         self.pinyin = linels[3]
     
-    def __repr__(self):
+    def __str__(self):
         return f"""Id:\t{self.id}\nSimplified:\t{self.simp}\nTraditional:\t{self.trad}\nPinyin:\t{self.pinyin}\n"""
 
 class Container:
-    
     def __init__(self, kind):
         self.items = []
         self.kind = kind
+        
+    def __iter__(self):
+        return ContainerIterator(self)
+    
+    def __len__(self):
+        return len(self.items)
+    
+    def __getitem__(self, index):
+        return self.items[index]
         
     def append(self, item):
         assert isinstance(item, self.kind)
@@ -50,3 +58,27 @@ class Container:
         except:
             raise AttributeError
     
+    def call(self, meth):
+        try:
+            return [getattr(el, meth)() for el in self.items]
+        except:
+            raise AttributeError
+    
+    def sort(self, attr):
+        return sorted(self.get(attr))
+
+class ContainerIterator:
+    def __init__(self, container):
+        self._index = 0
+        self._container = container
+    
+    def __iter__(self):
+        return self
+    
+    def __next__(self):
+        if self._index < len(self._container):
+            x = self._index
+            self._index += 1
+            return self._container[x] 
+        else:
+            raise StopIteration
