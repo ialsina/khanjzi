@@ -1,0 +1,1945 @@
+1	一		イチ、イチツ	ひと、ひとつ	Uno, Un	1
+2	丁		チョウ、テイ	ひのと	Calle	3
+3	七		シチ	なな, ななつ, なの	Siete	1
+4	万	萬	マン、バン	よろず	Diez mil	2
+5	丈		ジョウ、チョウ	たけ	Largo	S
+6	三		サン	みつ	Tres	1
+7	上		ジョウ	うえ、かみ,うわ	Arriba	1
+8	下		カ、ゲ	した、しも	Debajo	1
+9	不		フ、ブ	ふ、ぶ	No	4
+10	与	與	ヨ	あた・える	Dar	S
+11	且		シャ、ショ	か・つ	Mas Allá	S
+12	世		セ、セイ	よ	Mundo, generación	3
+13	丘		キュウ、ク	おか	Colina	S
+14	丙		ヘイ、ヒョウ	ひのえ	Tercera Clase	S
+15	両	兩	リョウ	ふた・つ	Ambos, juntos	3
+16	並		へい、ビョウ	なら・ぶ、なみ	Columna	6
+17	中		チュウ	なか	Medio, mitad, en medio	1
+18	丸		ガン、カン	まる	Círculo, redondo	2
+19	丹		タン		Barra de canela	S
+20	主		シュ、ス	おも、ぬし	Maestro, señor	3
+21	久		キュウ、ク	ひさ・しい	Largo tiempo	5
+22	乏		ボウ	とぼ・しい	Destitución	S
+23	乗	乘	ジョウ、ショウ	の・る、の・せる	Montar	3
+24	乙		オツ、イツ	きのと、おと	Último	S
+25	九		キュウ、ク	ここのつ	Nueve	1
+26	乱	亂	ラン、ロン	みだ・れる、みだ・す	Confundirse	6
+27	乳		ニュウ、ジュ	ちち、ち	Leche	6
+28	乾		カン、ケン	わか・く、わか・かす	Sequía	S
+29	了		リョウ	お・わる	Completo	S
+30	予	予, 預, 豫	ヨ	あらかじ・め	Tempranamente, anticipo	3
+31	争	爭	ソウ、ショウ	あらそ・う	Conflicto	4
+32	事		ジ、ズ	こと	Cosa	3
+33	二		ニ	ふたつ	Dos	1
+34	互		ゴ、コ	たが・い	Mutuamente	S
+35	五		ご	いつつ	Cinco	1
+36	井		ショウ、セイ	い	Bueno	S
+37	亜	亞	ア、エ	つ・ぐ	Asia	S
+38	亡		ボウ、モウ	な・い	Muerto	6
+39	交		コウ、キョウ	まじ・わる、まじ・える	Mezclar	2
+40	享		キョウ、コウ	すすめ・る、うけ・る	Recibir	S
+41	京		キョウ、ケイ	みやこ	Capital	2
+42	亭		テイ、ジョウ	あずまや、とど・まる	Pabellón	S
+43	人		ニン、ジン	ひと	Persona	1
+44	仁		ジン、二、ニン	ひと	Humanidad	6
+45	今		コン、キン	いま	Ahora	2
+46	介		カイ、ケ	たす・ける、すけ	Apretar, forzar	S
+47	仏	佛	ブツ	ほとけ	Buda	5
+48	仕		シ、ジ	つか・える	Hacer, realizar	3
+49	他		タ	ほか	Otra persona	3
+50	付		フ	つ・ける、つ・ぐ	Añadir	4
+51	仙		セン	やまびと、せんにん、せんと	Ermitaño	S
+52	代		タイ、ダイ	か（わる）、よ	Sustituto	3
+53	令		レイ		Órdenes	4
+54	以		イ		Mediante	4
+55	仮	假	カ、ケ	かり、かりる、かりに	Temporal (de tiempo)	5
+56	仰		ギョー、コー	あおぐ、おおせ、あおる	Cara arriba	S
+57	仲		チュウ	なか	Ir entre	4
+58	件		ケン		Asunto, incidente	5
+59	任		ニン	まか（す）	Responsabilidad	5
+60	企		キ	くわだ（てる）、たくら・む	Plan	S
+61	伏		フク	ふ-せる、ふ-す	Postrado	S
+62	伐		バツ	きる、うつ、ほこる	Caer, resbalar	S
+63	休		キュウ	やす（む）	Descanso	1
+64	会	會	カイ	あ（う）	Asociación	2
+65	伝	傳	デン	つた（える）	Transmitir	4
+66	伯		ハク		Jefe	S
+67	伴		バン		Consorte, pareja	S
+68	伸		シン	のば（す）	Expandir	S
+69	伺		シ	うかが（う）	Mostrar respetos	S
+70	似		ジ	に（る）	Convertir	5
+71	但		イ	くらい	Sin embargo...	S
+72	位		イ		Rango	4
+73	低		テイ	ひく（い）	Bajo	4
+74	住		ジュウ	すむ	Morada (lugar)	3
+75	佐		ザイ		Asistir	S
+76	体	體	タイ	からだ	Cuerpo	2
+77	何			なに、なん	Cuál, cuántos, qué	2
+78	余	余, 餘	ヨ	あま・る	Demasiado	5
+79	作		サク	つく（る）	Hacer	2
+80	佳		カ		Excelente	S
+81	併		ヘイ	あわ（せる）	Juntar, unir	S
+82	使		シ	つか（う）	Usar	3
+83	例		レイ	たと（えば）	Ejemplo	4
+84	侍		ジ	さむらい	Sirviente	S
+85	供		キョウ	とも	Ofrecer	6
+86	依		イ		De confianza	S
+87	価	價	カ		Valor (numérico)	5
+88	侮			あなど・る	Desprecio, Desdén	S
+89	侯		コウ		Marqués, Noble	S
+90	侵		シン	おか-す	Abusar, Usurpar	S
+91	便		ベン	たより	Conveniencia	4
+92	係		ケイ		Persona a cargo	3
+93	促		ソク	うなが-す	Estimular	S
+94	俊		シュン		Sabio, genio (adj.)	S
+95	俗		ゾク		Vulgar, Pueblerino	S
+96	保			たも・つ	Preservar	5
+97	信		シン	し、しが	Confianza	4
+98	修		シュウ		Disciplina	5
+99	俳		ハイ		Actor	6
+100	俵		ヒョウ	たわら	Maleta	5
+101	俸		ホウ		Remuneración, Salario	S
+102	倉		ソウ	くら	Ir hacia abajo	4
+103	個		コ		Individual	5
+104	倍		バイ	ばい	Doble	3
+105	倒		トウ	たお・す、たお・れる	Derrocar	S
+106	候		コウ		Clima	4
+107	借			かり・る	Prestar	4
+108	倣		ホウ	なら-う	Emular	S
+109	値		チ	ね	Valor (numérico)	6
+110	倫		リン		Ética	S
+111	倹	儉	ケン		Frugal	S
+112	偉		イ	えら・い	Admirable	S
+113	偏		ヘン	かたよ-る	Parcial	S
+114	停		テイ		Detener, ¡Alto! (Imperativo)	4
+115	健		ケン		Salud	4
+116	側		ソク	かわ	Lado	4
+117	偵		テイ		Espiar	S
+118	偶		グウ	たま	Accidentalmente	S
+119	偽	僞		にせ、いつわ・る	Falsedad	S
+120	傍		ボウ		Vividor, Sobreviviente	S
+121	傑		ケツ		Grandeza	S
+122	傘		サン	かさ	Sombrilla	S
+123	備		ビ	そな-える、そな-わる	Proveer	5
+124	催		サイ	もよお-す	Patrocinador	S
+125	債		サイ		Unión, Lazo	S
+126	傷		ショウ	きず	Herida	6
+127	傾		ケイ	かたむ-く、かたむ-ける	Préstamo	S
+128	働			はたら・く	Trabajo	4
+129	像		ゾウ		Estatua	5
+130	僕		ボク		Yo (informal)	S
+131	僚		リョウ		Colega	S
+132	僧		ソウ		Sacerdote Budista	S
+133	儀		ギ		Ceremonia	S
+134	億		オク		Cien Millones	4
+135	儒		ジュ		Confuciano	S
+136	償		ショウ	つぐな-う	Reparación	S
+137	優		ユー	やさし・い	Superior	6
+138	元		ゲン	もと	Origen, Principio	2
+139	兄		ケイ、キョウ	あに	Hermano Mayor	2
+140	充		ジュウ		Asignar, Adjudicar	S
+141	兆		チョウ	きざ（す）	Augurio, billón	4
+142	先		セン	さき	Anterior	1
+143	光		コウ	ひかり	Rayo, Luz	2
+144	克		コク		Superar	S
+145	免		メン		Disculpar, Excusa	S
+146	児	兒	ジ、ニ		Niño, Recién Nacido	4
+147	党	黨	トウ		Partido (política)	6
+148	入		ニュウ	いる、はいる	Entrar,Introducir	1
+149	全		ゼン	まったく、すべて	Metal, Oro, Completamente	3
+150	八		ハチ	やつ、よう、や	Ocho	1
+151	公		コウ	おおやけ	Público	2
+152	六		ロク	むつ	Seis	1
+153	共		キョウ	とも	Junto	4
+154	兵		ヘイ	つわもの	Soldado	4
+155	具		グ	ぐ	Herramienta	3
+156	典		テン		Código	4
+157	兼		テン	か-ねる	Concurrentemente	S
+158	内		ナイ	うち	Adentro	2
+159	円		エン	まるい	Yen (Moneda de Japón), círculo	1
+160	冊		サツ、サク		Unidad de cuenta para libros	6
+161	再		サイ、サ	ふたた-び	Otra vez	5
+162	冒		ボウ		Riesgo	S
+163	冗		ジョウ		Superfluo	S
+164	写	寫	シャ	うつ・る	Copiar	3
+165	冠		カン	かんむり	Corona	S
+166	冬		トウ	ふゆ	Invierno	2
+167	冷		レイ	つめ・たい	Frío	4
+168	准		ジュン		cuasi-	S
+169	凍		トウ	こお・る、こご・える	Congelado	S
+170	凝		ギョウ	こ-る、こ-らす	Congela	S
+171	凡		ボン		Mediocre	S
+172	処	處	ショ		Desechar	6
+173	凶		キョウ		Villano,Malo	S
+174	凸		トツ	でこ	Convexo	S
+175	凹		オウ		Cóncavo,Hundir	S
+176	出		シュツ	でる	Salir	1
+177	刀		トウ	かたな	Espada,Katana	2
+178	刃			やいば	Hoja, Cuchilla, Filo	S
+179	分		フン	わける	Minuto,Entender	2
+180	切		セツ	きる	Cortar	2
+181	刈				Cosechar	S
+182	刊		カン		Publicar	5
+183	刑		ケイ		Castigar	S
+184	列		レツ	れつ	Hilera	3
+185	初		ショ、ハツ	はじめ	Primero	4
+186	判		ハン		Juez	5
+187	別		べつ	わか・れ	Separado,Especial	4
+188	利		リ		Beneficio	4
+189	到		トウ		Llegada	S
+190	制				Control	5
+191	刷				Impresión	4
+192	券		ケン		Ticket	5
+193	刺		シ	さ・す	Espina	S
+194	刻			きざ・む	Grabar	6
+195	則		ソク		Regla, Norma	5
+196	削				Avión	S
+197	前		ゼン	まえ	Delante	2
+198	剖				Dividir	S
+199	剛		ゴウ		Robusto	S
+200	剣	劍	ケン	つるぎ	Espada, Sable	S
+201	剤	劑	ザイ		Dosis	S
+202	副		フク		Vice-	4
+203	剰	剩			Excedente, Ganancia	S
+204	割			わ・る	Dividir	6
+205	創			つく・る	Crear	6
+206	劇		ゲキ		Drama	6
+207	力		リョク、リキ	ちから	Poder,Fuerza	1
+208	功		コウ		Logro, éxito	4
+209	加		カ	くわ・える	Agregar	4
+210	劣				Inferioridad	S
+211	助			たす・ける	Ayuda, Auxilio	3
+212	努				Esfuerzo	4
+213	励	勵		はげ・ます	Alentar, Animar	S
+214	労	勞	ロウ		Trabajo, Labor	4
+215	効	效	コウ		Efecto	5
+216	劾				Censura	S
+217	勅				Orden Imperial	S
+218	勇		ユウ		Coraje	4
+219	勉		ベン		Esforzarse	3
+220	動		ドウ	うご・く	Mover,Movimiento	3
+221	勘		カン		Intuición	S
+222	務		ム	つと・め	Deber, Trabajo	5
+223	勝		ショウ	か・つ	Ganar	3
+224	募			つの・る	Reclutar	S
+225	勢		セイ	いきお・い	Poder	5
+226	勤			つと・め	Diligencia	6
+227	勧	勸			Persuasión	S
+228	勲	勳			Título Meritorio	S
+229	勺		シャク		Cucharón	S
+230	匁				Comercio al por mayor	S
+231	包		ホウ	つつ・む	Envuelto	4
+232	化		カ	ばけ・る	Cambio	3
+233	北		ホク	きた	Norte	2
+234	匠		ショウ		Artesano	S
+235	匹		ヒキ		Igual,Contador de animales pequeños	S
+236	区	區	ク		Sala, estudiante,sector	3
+237	医	醫	イ	いゆ	Cuidados Médicos	3
+238	匿				Esconder	S
+239	十		ジュウ	とお	Diez	1
+240	千		セン	ち	Mil	1
+241	升				Caja para Medir	S
+242	午		ゴ		Mediodía	2
+243	半		ハン	なかば	Mitad	2
+244	卑				Silencioso	S
+245	卒		ソツ		Graduar	4
+246	卓		タク		Eminente	S
+247	協		キョウ		Cooperación	4
+248	南		ナン	みなみ	Sur	2
+249	単	單	タン		Simple	4
+250	博		ハク		Amplio, abundante	4
+251	占		セン	うらない	Adivinación	S
+252	印		イン	しるし	Marca	4
+253	危		キ	あぶ・ない	Peligroso	6
+254	即				Instante	S
+255	却		キャク		Inactividad	S
+256	卵			たまご	Huevo	6
+257	卸				Mayoreo	S
+258	厄				Desafortunado	S
+259	厘				Rin [medida japonesa]	S
+260	厚			あつ・い	Grueso	5
+261	原		ゲン	はら	Prado	2
+262	厳	嚴	ガン、ゲン	きび・しい	Estricto	6
+263	去		キョ	さ・る	Dejar, Salir	3
+264	参	參	サン		Participar,Viajar	4
+265	又			また	Nuevamente	S
+266	及		キュウ	およ・ぶ	Alcanzar	S
+267	友		ユウ	とも	Amistad,Amigo	2
+268	双	雙			Gemelo, Par	S
+269	反		ハン	そ・る	Anti-	3
+270	収	收	シュウ		Adquisición, Propiedad	6
+271	叔				Tío	S
+272	取		シュ	とる	Tomar, coger	3
+273	受			う・ける	Aceptar	3
+274	叙				Conceder, conferir	S
+275	口		コウ	くち	Boca	1
+276	古		コ	ふるい	Viejo	2
+277	句		グ		Frase	5
+278	叫		キョウ	さけ・ぶ	Llamar [con gritos a alguien]	S
+279	召		ショウ	め・し	Seducir	S
+280	可		カ		Posible	5
+281	台		タイ	だい	Pedestal	2
+282	史		シ	ふみ	Historia	4
+283	右		ウ	みぎ	Derecha	1
+284	号		ゴウ	ごう	Número	3
+285	司		シ		Director	4
+286	各		カク		Cada uno	4
+287	合		ゴウ	あ・う	Encajar	2
+288	吉		キチ	よし	Buena suerte	S
+289	同		ドウ	おな・じ	Igual	2
+290	名		メイ、ミョウ	な	Nombre	1
+291	后				Emperatriz	6
+292	吏				Funcionario civil, Burócrata [Lai]	S
+293	吐			は・く	Escupir	S
+294	向			む・く、むか・える	Sobre eso de allá, En frente de	3
+295	君		クン	きみ	Tú	3
+296	吟		ギン		Escribir en prosa	S
+297	否		ヒ		Negar	6
+298	含				Incluir	S
+299	吸		キュウ	す・う	Aspirar, chupar, fumar	6
+300	吹			ふ・く	Soplar	S
+301	呈				Exponer	S
+302	呉		ゴ		Dar	S
+303	告		コク	つ（げる）	Decir	4
+304	周			まわ・り	Circunferencia	4
+305	味			あじ	Sabor	3
+306	呼		コ	よ・ぶ	Llamar	6
+307	命		メイ、ミョウ	いのち	Destino,vida	3
+308	和		ワ	やわらぐ	Paz	3
+309	咲		ショウ	さく	Florecer	S
+310	哀		アイ	かな・しい	Patético	S
+311	品		ヒン	しな	Mercancías	3
+312	員		イン	いな	Miembro, Empleado	3
+313	哲		テツ		Filosofía	S
+314	唆				Tentar	S
+315	唇			くちびる	Labios	S
+316	唐		トウ	から	T'ang	S
+317	唯		ユ		Únicamente	S
+318	唱		ショウ	とな・える	Recitar	4
+319	商		ショウ		Vender	3
+320	問		モン	と・う	Pregunta	3
+321	啓				Revelar	S
+322	善		ゼン		Bien	6
+323	喚		カン		Gritar	S
+324	喜			よろこ・ぶ	Regocijarse	4
+325	喝				Ronco	S
+326	喪				Extrañar	S
+327	喫				Consumir	S
+328	営		エイ		Administrar, controlar	5
+329	嗣				Heredero	S
+330	嘆			なげ・く	Suspirar	S
+331	嘱				Encomendar, confiar	S
+332	器		キ		Contenedor, Utensilio	4
+333	噴		フン		Entrar en erupción	S
+334	嚇				Amenazador	S
+335	囚				Capturado	S
+336	四		シ	よん、よ	Cuatro	1
+337	回		カイ	まわる	nº de veces, girar	2
+338	因		イン	ちな・み	Causa, razón	5
+339	団		ダン		Grupo	5
+340	困			こま・る	Agobiarse	6
+341	囲			かこ・む	Rodear	4
+342	図		ズ		Dibujo, planear, diseñar	2
+343	固		コ	かた（い）	Duro, endurecer	4
+344	国		コク	くに	País,nación	2
+345	圏				Esfera	S
+346	園		エン	その	Jardín	2
+347	土		ド	つち	Tierra, suelo	1
+348	圧		アツ		Presión	5
+349	在		ザイ	あ・る	Existencia	5
+350	地		チ	どま	Suelo	2
+351	坂		ハン	さか	Pendiente	3
+352	均		キン		Piso, Nivel	5
+353	坊		ボウ		Chico, niño	S
+354	坑				Fosa, hoyo	S
+355	坪				two-mat area	S
+356	垂				Marchitarse	6
+357	型				Modelo	4
+358	垣				Valla	S
+359	埋			うも・れる	Enterrar	S
+360	城		ジョウ	しろ	Castillo	6
+361	域				Ámbito, campo	6
+362	執				Tenaz	S
+363	培				Cultivar	S
+364	基		キ		Fundación	5
+365	堀			ほ・る	Zanja	S
+366	堂		ドウ		Salón	4
+367	堅		ケン	かた・い	Estricto	S
+368	堕			お・ちる	Degenerar	S
+369	堤				Dique	S
+370	堪				Soportar	S
+371	報		ホウ		Informar, recompensar	5
+372	場		ジョウ	ば	Lugar	2
+373	塀				Cerca, valla	S
+374	塁				Bases	S
+375	塊		カイ	かたまり	Terrón	S
+376	塑				Modelo	S
+377	塔		トウ		Pagoda	S
+378	塗			ぬ・る	Pintar	S
+379	塚			つか	Montículo, loma	S
+380	塩			しお	Sal	4
+381	塾		ジュク		Academia, escuela intensiva	S
+382	境		キョウ		Límite	5
+383	墓			はか	Tumba	5
+384	増			ふ・える	Incrementar	5
+385	墜				Choque	S
+386	墨				Tinta China	S
+387	墳				Sepulcro	S
+388	墾				Innovador	S
+389	壁		ヘキ	かべ	Pared, muro	S
+390	壇				Podio	S
+391	壊		カイ	こわ・れる	Demolición	S
+392	壌				Mucho	S
+393	士		シ	お、ま	Caballero	4
+394	壮				Robusto	S
+395	声		セイ	こえ	Voz	2
+396	壱				Uno	S
+397	売		バイ	うる	Vender	2
+398	変		ヘン	か・わる	Cambiar,extraño	4
+399	夏		カ	なつ	Verano	2
+400	夕		セキ	ゆう	Tarde, atardecer	1
+401	外		ガイ	そと、ほか	Fuera, exterior	2
+402	多		タ	おおい	Mucho/s	2
+403	夜		ヤ	よる	Noche	2
+404	夢		ム	ゆめ	Sueño	5
+405	大		ダイ	おおきい	Gran, grande	1
+406	天		テン	あま	Paraíso	1
+407	太		タ	ふと・い	Gordo	2
+408	夫		フ	おっと	Esposo	3
+409	央			おう	Centro	4
+410	失		シ	うしな・う、な・くす	Perder	4
+411	奇		キ		Extraño	S
+412	奉		ホウ		Cumplimiento	S
+413	奏			かな・でる	Tocar un instrumento	6
+414	契		ケイ		Compromiso	S
+415	奔				Bullicio	S
+416	奥		オウ	おくまる	Oír, escuchar	S
+417	奨				Exhortar	S
+418	奪			うば・う	Robar	S
+419	奮		フン		Remover	6
+420	女		ジョ	おんな	Mujer	1
+421	奴		ド	やつ	Tipo, hombre	S
+422	好		コウ	このむ、すき	Gustar	4
+423	如		ジョ	ごとし	Parecido	S
+424	妃				Reina	S
+425	妄		モウ		Engaño	S
+426	妊		ニン		Embarazo	S
+427	妙		ミョウ		Exquisito, Exquisita	S
+428	妥				Suave	S
+429	妨				Molestar	S
+430	妹		マイ	いもおと	Hermana menor	2
+431	妻		サイ	つま	Esposa	5
+432	姉		シ	あね	Hermana mayor	2
+433	始		シ	はじめる	Empezar	3
+434	姓		セイ		Apellido	S
+435	委				Comité	3
+436	姫		キ	ひめ	Princesa	S
+437	姻				Matrimonio	S
+438	姿		シ	すがた	Figura	6
+439	威		イ		Intimidar	S
+440	娘		ジョウ	むすめ	Hija	S
+441	娠		シン		Con niños	S
+442	娯		ゴ		Recreación	S
+443	婆			ばあ	Anciana	S
+444	婚		コン		Matrimonio	S
+445	婦		フ		Señora	5
+446	婿				Novio	S
+447	媒				Mediador	S
+448	嫁				Casarse	S
+449	嫌		ケン	きらう、いや	Aversión	S
+450	嫡				Esposa legítima	S
+451	嬢		ジョウ		Muchacha, jovencita	S
+452	子		シ、ス	こ	Niño	1
+453	孔		コウ		Cavidad	S
+454	字		ジ	あざ	Carácter, letra	1
+455	存		ソン		Suponer	6
+456	孝				Devoción filial (idea del Confucianismo)	6
+457	季		キ		Estaciones	4
+458	孤		コ		Huérfano	S
+459	学	學	ガク	まなぶ	Estudiar	1
+460	孫		ソン	まご	Nieto	4
+461	宅		タク		Hogar	6
+462	宇		ウ		Edificio grande	6
+463	守		シュ	まもる	Proteger	3
+464	安		アン	やすい	Barato	3
+465	完		カン		Perfecto	4
+466	宗		ソウ		Religión	6
+467	官		カン		Gobierno oficial	4
+468	宙		チュウ		Espacio	6
+469	定		テイ		Decidir	3
+470	宜			よろ・しい	Cordiales saludos	S
+471	宝		ホウ	たから	Tesoro	6
+472	実		ジツ	みの・る、み	Verdad	3
+473	客		キャク	きゃく	Huésped	3
+474	宣				Proclamar	6
+475	室		シツ	むろ	Habitación	2
+476	宮		キュウ、グウ	みや	Príncipe	3
+477	宰		サイ		Superintendente	S
+478	害		ガイ		Daño	4
+479	宴				Banquete	S
+480	宵				Altas horas de la madrugada, Anochecer	S
+481	家		カ	いえ、うち	Casa	2
+482	容		ヨウ		Contener	5
+483	宿		ジュク	やど	Taberna	3
+484	寂		ジャク	さみ・しい、さび・しい	Soledad	S
+485	寄			よ・る	Acercarse	5
+486	密		ミツ	ひそか	Secreto	6
+487	富		フ	とみ	Rico, Riqueza	5
+488	寒		カン	さむ・い	Frío	3
+489	寛				Tolerante	S
+490	寝		シン	ね・る	Acostarse	S
+491	察		サツ		Adivinar	4
+492	寡		カ		Viuda	S
+493	寧				Bastante	S
+494	審		シン		Examinar	S
+495	寮		リョウ		Dormitorio	S
+496	寸		スン		Medida	6
+497	寺			てら	Templo budista	2
+498	対		ツイ、タイ	たい	Opuesto	3
+499	寿				Longevidad	S
+500	封		フウ		Sellar	S
+501	専		セン		Especialidad	6
+502	射		シャ	さ・す	Disparo	6
+503	将		ショウ		Líder	6
+504	尉		イ		Oficial militar	S
+505	尊		ソン		Referenciado	6
+506	尋				Informarse	S
+507	導			みちび・く	Guiar	5
+508	小		ショウ	ちさい（い）	Pequeño	1
+509	少		ショウ	すこ・し	Poco	2
+510	尚			なお	Estima, Estimado	S
+511	就		シュウ		Llegar al trabajo, realizar	6
+512	尺		シャク		Regla, medida	6
+513	尼				Monja	S
+514	尽			つ・く	Exhausto	S
+515	尾				Cola	S
+516	尿		ニョウ		Orina	S
+517	局		キョク		Oficina	3
+518	居			い・る	Residir	5
+519	屈		クツ		Producción, producir	S
+520	届			とど・く	Entregar	6
+521	屋		ヤ	や	Tejado	3
+522	展		テン		Expandir	6
+523	属				Pertenecer	5
+524	層		ソウ		Estrato	6
+525	履			は・く	Calzado	S
+526	屯				Barracones	S
+527	山		サン	やま	Montaña	1
+528	岐				Desviarse	S
+529	岩		ガン	いわ	Roca (Pedrusco)	2
+530	岬				Cabo de tierra	S
+531	岳				Punto	S
+532	岸			きし	Playa	3
+533	峠				Pico de la Montaña	S
+534	峡				Cañón, desfiladero	S
+535	峰		ホウ	みね	Cima, cumbre	S
+536	島		トウ	しま	Isla	3
+537	崇			たた・る	Adorar	S
+538	崎				Promontorio	S
+539	崩		ホウ	くず・れる	Desmenuzar	S
+540	川			かわ(がわ)	Arroyo	1
+541	州				Estado	3
+542	巡			めぐ・る	Patrulla	S
+543	巣		ソウ	す	Nido, madriguera	4
+544	工		コウ		Viga	2
+545	左		サ	ひだり	Izquierda	1
+546	巧				Hábil	S
+547	巨		キョ		Gigante	S
+548	差		サ		Distinción	4
+549	己			おのれ	Uno mismo	6
+550	巻			ま・き	Rollo, pergamino	6
+551	市		シ	いち	Ciudad	2
+552	布				Tela	5
+553	帆				Navegar	S
+554	希		キ	まれ	Deseo	4
+555	帝				Soberano	S
+556	帥				Comandante	S
+557	師			し	Experto	5
+558	席			せき	Asiento	4
+559	帯		オビ	たい	Faja	4
+560	帰		キ	かえ（る）	Volver	2
+561	帳			ちょう	Registro	3
+562	常		ジョウ	じょう	Normal, siempre	5
+563	帽		ボウ		Gorra	S
+564	幅				Anchura, amplitud	S
+565	幕			まく、ばく	cortina	6
+566	幣				Dinero en efectivo	S
+567	干		ホ・ス	かん	Airear, secar	6
+568	平		タイ・ラ、ヒラ	へい、びょう　	Llano, liso	3
+569	年		ネン	とし	Año	1
+570	幸		サイワ・イ、シアワ・セ	こう	Felicidad	3
+571	幹		カン	みき	Tronco de árbol, base	5
+572	幻				Fantasma	S
+573	幼		ヨウ	おさな・い	Infantil	6
+574	幽				Solitario	S
+575	幾				Cuantos	S
+576	庁		チョウ		Oficina del gobierno	6
+577	広			ひろい	Ancho	2
+578	床				Cama	S
+579	序		ジョ		Inicio, comienzo	5
+580	底		テイ	そこ	Al fondo	4
+581	店		テン	みせ	Tienda	2
+582	府		フ		Municipio	4
+583	度		ド		Veces, grados	3
+584	座		ザ	すわ・る	Sentarse	6
+585	庫		コ		almacén	3
+586	庭		テイ	にわ	Jardín	3
+587	庶				Plebeyo	S
+588	康		コウ		Tranquilo	4
+589	庸				Cosa frecuente	S
+590	廃				Abolir	S
+591	廉				Pacto, pactar	S
+592	廊				Pasillo	S
+593	延		エン	の・ばす	Prolongar, alargar	6
+594	廷				Tribunal	S
+595	建		ケン	た・てる	Construir	4
+596	弁		ベン		Discurso, dialecto	5
+597	弊				Abusar	S
+598	式			しき	Estilo	3
+599	弐				II (Dos)	S
+600	弓		キュウ	ゆみ	Arco (de tiro)	2
+601	弔				Pésame	S
+602	引		イン	ひ・く	Tirar	2
+603	弟			おとおと	Hermano pequeño	2
+604	弦				Cuerda (de arco)	S
+605	弧				Arco	S
+606	弱			よわ	Débil	2
+607	張		チョウ	は・る	Hinchar, ensanchar	5
+608	強			つよ（い）	Fuerte	2
+609	弾				Bala	S
+610	当		トウ	あたる	Acertar	2
+611	形			かたち	Forma	2
+612	彩				Colorido (de un dibujo)	S
+613	彫				Tallar	S
+614	彰				Patente	S
+615	影		エイ、ヨウ	かげ	Sombra	S
+616	役			えき	Servicio	3
+617	彼			かれ	Él	S
+618	往		オウ		Viaje	5
+619	征				Subyugar, someter	S
+620	径		ケイ		Diámetro	4
+621	待		タイ	まつ	Esperar	3
+622	律		リツ		Ley, regla, ritmo musical	6
+623	後			うし	Antes	2
+624	徐				Gradualmente	S
+625	徒		ト		Compañero	4
+626	従		ジュウ	したが・う	Obedecer	6
+627	得		トク	え・る	Conseguir, obtener	4
+628	御				Honorable	S
+629	復				Otra vez	5
+630	循				Secuencial	S
+631	微				Delicado	S
+632	徳		トク		Virtud	5
+633	徴				Indicaciones	S
+634	徹				Penetrado	S
+635	心		シン	こころ	Corazón	2
+636	必		ヒツ	かならず	Necesariamente	4
+637	忌				Mañana	S
+638	忍				Soportar, aguantar	S
+639	志		シ	こころざし	Aspirar, desear	5
+640	忘		ボウ	わすれる	Olvidar	6
+641	忙				Ocupado	S
+642	応		オウ		Responder	5
+643	忠		チュウ		Lealtad	6
+644	快		カイ	こころよ・い	Agradable, placentero	5
+645	念		ネン		Pensamiento	4
+646	怒				Enfadado	S
+647	怖				Terrible, espantoso	S
+648	思		シ	おもう	Pensar	2
+649	怠				Desatender, descuidar	S
+650	急		キュウ		Apurarse	3
+651	性		セイ、ショウ		Género	5
+652	怪		カイ	あや・しい	Suspicaz	S
+653	恋		レン	こい	Romance	S
+654	恐		キョウ	こわ・い、おそ・ろしい	Temor, temer	S
+655	恒				Constancia	S
+656	恥		チ	はじ、はず・かしい	Vergüenza	S
+657	恨		コン	うら・み	Rencor	S
+658	恩		オン		Bondad	5
+659	恭		キョウ		Respeto	S
+660	息			いき	Respiración	3
+661	恵		エ	めぐ・む	Favor	S
+662	悔		カイ	くや・しい	Arrepentirse	S
+663	悟		ゴ	さと・る	Explicación, aclaración	S
+664	悠				Permanencia	S
+665	患				Aquejado, afligido	S
+666	悦		エツ	よろこ・び	Éxtasis	S
+667	悩		ノウ	なや・み	Problema	S
+668	悪		アク	わる（い）	Malo	3
+669	悲		ヒ	かな・しい	Triste	3
+670	悼				Lamentar	S
+671	情		ジョウ		Sentimientos	5
+672	惑		ワク	まど・う	Engatusar, cautivar, seducir	S
+673	惜			お・しい	Pena	S
+674	惨				Desgraciado	S
+675	惰				Flojera	S
+676	想		ソウ	おも・う	Concepto	3
+677	愁		シュウ		Angustia, aflicción	S
+678	愉		ユ		Placer	S
+679	意		イ	い	Idea	3
+680	愚		グ	おろ・か	Tonto	S
+681	愛		アイ	いと・しい	Amor	4
+682	感		カン	かん・じる	Sentimiento	3
+683	慈				Piedad	S
+684	態		タイ		Figura, apariencia	5
+685	慌			あわ・てる	Desconcertado	S
+686	慎		シン		Humildad	S
+687	慕				pining	S
+688	慢		マン		Ridículo	S
+689	慣			な・れる	Acostumbrado	5
+690	慨				Lamentar, arrepentirse	S
+691	慮				Prudencia	S
+692	慰		イ		Consuelo	S
+693	慶		ケイ	よろこ・ぶ	Jubilación	S
+694	憂		ユウ		Melancolía	S
+695	憎			にく・む、にく・い	Odio	S
+696	憤				Excitado	S
+697	憩		ケイ		Suspensión, receso	S
+698	憲		ケン		Regulación, ley	6
+699	憶		オク		Recuerdo	S
+700	憾				Remordimiento	S
+701	懇				Sociable	S
+702	懐			なつ・かしい	Bolsillo	S
+703	懲				Penal	S
+704	懸				Suspender	S
+705	成		セイ	な（る）	Convertir	4
+706	我		ワ	われ	Yo, uno mismo, ego	6
+707	戒				Comandante	S
+708	戦		セン	いくさ	Guerra,Zen	4
+709	戯				Retozar	S
+710	戸		ド	と	Puerta	2
+711	戻			もど・る	re-	S
+712	房		ボウ		Borla	S
+713	所		ショ	ところ	Lugar	3
+714	扇		セン		Ventilador	S
+715	扉			とびら	Puerta frontal	S
+716	手		シュ	て	Mano	1
+717	才		サイ	さい	Talento, habilidad,edad	2
+718	打			う・つ	Pegar	3
+719	払				Pagar	S
+720	扱			あつか・う	Manejar	S
+721	扶				Ayuda	S
+722	批		ヒ		Criticar	6
+723	承		ショウ		Consentir	5
+724	技		ヒ	わざ	Habilidad	5
+725	抄				Extracto	S
+726	把				Apretar	S
+727	抑			おさ・える	Reprimir	S
+728	投		トウ	なげる	Lanzar, arrojar	3
+729	抗		コウ	あらが・う	Confrontar	S
+730	折		セツ	お・る	Quebrar	4
+731	抜			ぬ・く	Escapar	S
+732	択		タク		Elegir	S
+733	披		ヒ		Exponer	S
+734	抱		ホウ	だ・く	Abrazar	S
+735	抵		テイ		Resistir	S
+736	抹				Frotar	S
+737	押			お（す）	Empujar	S
+738	抽				Arrancar	S
+739	担		タン	にな・う	Cargar, transportar	6
+740	拍		ハク		Aplaudir	S
+741	拐		カイ		Secuestro	S
+742	拒		キョ		Repeler	S
+743	拓		タク		Limpiar (la tierra)	S
+744	拘				Arrestar	S
+745	拙				Torpe	S
+746	招				Llamar por señas	5
+747	拝		ハイ	おが・む	Adorar, culto	6
+748	拠				Punto de apoyo	S
+749	拡		カク	ひろ・がる	Ampliar, ensanchar	6
+750	括				Rápido (más que)	S
+751	拷				Torturar	S
+752	拾			ひろ・う	Recoger	3
+753	持			も・つ	Detener	3
+754	指		シ	ゆび	Dedo	3
+755	挑		チョウ	いど・む	Reto/prueba	S
+756	挙		キョ	あ・げる	Elevar,levantar	4
+757	挟				Pellizco, pellizcar	S
+758	振		シン	ふ・る	Remover	S
+759	挿				Insertar	S
+760	捕			つか・まえる	Coger	S
+761	捜		ソウ	さが・す	Buscar	S
+762	捨		シャ	す・てる	Tirar, arrojar	6
+763	据				Colocar	S
+764	掃		ソウ		Barrer	S
+765	授		ジュ	さず・ける	Instruir, conceder, otorgar	5
+766	掌				Manipular	S
+767	排				Repudiar	S
+768	掘			ほ・る	Excavar	S
+769	掛			か・ける、か・かる	Colgar	S
+770	採		サイ	と・る	Recoger (fruta), adoptar (medida)	5
+771	探		タン	さが・す、さぐ・る	Buscar, explorar	6
+772	接		セツ	せ・する、つ・ぐ	Unir, conectar, contactar	5
+773	控				Retirar, sacar	S
+774	推		スイ		Presionar	6
+775	措				Colocar al lado	S
+776	掲				Contar (una noticia)	S
+777	描			えが・く、か・く	Bosquejo, esbozo	S
+778	提		テイ	さ・げる	Tomar, llevar en la mano	5
+779	揚			あ・げる	Izar	S
+780	換		カン	か・える	Intercambiar	S
+781	握		アク	にぎ・る	Agarrar	S
+782	揮		キ		Manejar, ejercer	6
+783	援		エン		Ayuda	S
+784	揺		ヨウ	ゆ・る	Cambiar/mover	S
+785	損		ソン　	そく・ねる	Perder, dañar	5
+786	搬				Transportador	S
+787	搭				Pizarrón	S
+788	携		ケイ		Portátil	S
+789	搾				Apretar	S
+790	摂				Vicario	S
+791	摘				Pellizcar	S
+792	摩		キ		Rozar	S
+793	撃		ゲキ	う・つ	Golpear	S
+794	撤		テツ		Remover	S
+795	撮		サツ	と・る	Instantánea (foto)	S
+796	撲		ボク		Bofetada	S
+797	擁		ヨウ		Abrazo	S
+798	操		ソウ	あやつ・る	Manipular, castidad	6
+799	擦				Rechinar	S
+800	擬				Mímica	S
+801	支		シ	ささ・える	Soportar, soporte	5
+802	改		カイ	あらた（める）	Reforma, cambio	4
+803	攻		コウ	せ・める	Agresividad	S
+804	放		ホウ	はな・つ	Liberar, poner en libertad	3
+805	政		セイ	まつりごと	Política, gobierno, reglas	5
+806	故		コ	ゆえ	Razón, causa	5
+807	敏				Inteligencia	S
+808	救		キュウ	すく・う	Rescatar, salvar	4
+809	敗		ハイ	やぶ・れる	Fracaso	4
+810	教		キョウ	おし・える、おそ・わる	Enseñar	2
+811	敢		カン		Atrevido	S
+812	散		サン	ち・る	Esparcir	4
+813	敬		ケイ		Respetar	6
+814	数		スウ	かず、かぞ・える	Número	2
+815	整		セイ	ととの・える	Poner en orden	3
+816	敵		テキ	かたき	Enemigo	5
+817	敷				Abrir/regar	S
+818	文		ブン　モン　モ	ふみ	Oración, frase	1
+819	斉		サイ		Ajustado	S
+820	斎				Purificación	S
+821	斗				Osa mayor	S
+822	料		リョウ		Material, precio	4
+823	斜				Diagonal	S
+824	斤				Hacha	S
+825	斥				Rechazar	S
+826	断		ダン	ことわ・る	Cortar	5
+827	新		シン	にい‐あたらしい　あらた　	Nuevo	2
+828	方		ホウ	かた	Persona, manera	2
+829	施				Llevar a cabo, realizar	S
+830	旅		リョ	たび	Viaje	3
+831	旋		セン		Rotación	S
+832	族		ゾク		Tribu, familia	3
+833	旗		キ	はた	Bandera	4
+834	既			すで・に	Anteriormente	S
+835	日		ニチ　ジツ	ひ　か	Día, sol	1
+836	旧		キュウ		Antiguo, viejos tiempos	5
+837	旨		シ		Delicioso	S
+838	早		サ　サッ　ソウ	はやい　はや・める　はや・まる	Temprano	1
+839	旬		ジュン		Periodo de 10 días (del mes)	S
+840	昆				Descendientes	S
+841	昇			のぼ・る	Elevarse	S
+842	明		メイ　ミン　ミョウ	あかるい　あかす　あける　あきらか　あけ	Luz, claro	2
+843	易		エキ	やさ・しい	Fácil, sencillo	5
+844	昔			むかし	Tiempo pasado	3
+845	星		セイ　ショウ	ほし	Estrella	2
+846	映			うつ・る	Reflejo	6
+847	春		シュン	はる	Primavera	2
+848	昨		サク		Previo	4
+849	昭		ショウ		Resplandor	3
+850	是		ゼ		Solo eso	S
+851	昼		チュウ	ひる	Tarde	2
+852	時		ジ	とき	Tiempo, vez	2
+853	晩		バン		Tarde, noche, anochecer	6
+854	普		フ		Universal	S
+855	景		ケ		Paisaje, vista	4
+856	晴		セイ	はらす　はれる	Despejarse (tiempo atmosférico)	2
+857	晶		ショウ		Chispa	S
+858	暁			あかつき	Amanecer	S
+859	暇			ひま	Tiempo libre	S
+860	暑			あつい	Caliente	3
+861	暖		ダン	あたた・かい	Templado, cálido	6
+862	暗		アン	くら・い	Oscuro	3
+863	暦				Calendario	S
+864	暫		ザン		Temporalmente	S
+865	暮			く・らす	Anochecer, oscurecer	6
+866	暴		バク	あば・れる	Violento, alboroto	5
+867	曇		ドン	くも・る	Nublado	S
+868	曜		ヨウ		Día de la semana	2
+869	曲		キョク	まが・る	Composición musical	3
+870	更			さら	Hacerse tarde	S
+871	書		ショ	か・く	Escribir	2
+872	曹		ソウ		Cadete	S
+873	替			か・える	Intercambio	S
+874	最		サイ	もっと・も	Prefijo superlativo	4
+875	月		ゲツ　ガツ	つき	Mes, luna	1
+876	有		ユウ	あ・る	Tener	3
+877	服		フク		Ropas	3
+878	朕				Plural mayestático	S
+879	朗		ロウ		Melodioso	6
+880	望		ボウ	のぞ・む、のぞ・み	Esperar	4
+881	朝		チョウ	あさ	Mañana	2
+882	期		キ		Periodo de tiempo	3
+883	木		モク　ボク	き　こ	Árbol	1
+884	未		ミ	いま・だ	Aún no, todavía	4
+885	末		マツ	すえ	Final	4
+886	本		ホン	もと	Libro	1
+887	札		サツ		Billete	4
+888	朱		シュ		Bermellón	S
+889	朴		パク		Crudo, burdo	S
+890	机		キ	つくえ	Escritorio	6
+891	朽				Decaer	S
+892	杉			すぎ	Cedro	S
+893	材		サイ		Talento	4
+894	村		ソン	むら	Pueblo	1
+895	束		スカ	たば、つか	Manojo, racimo	4
+896	条		ジョウ		Artículo, cláusula	5
+897	来		ライ	く・る	Venir	2
+898	杯		ハイ		counter for cupfuls	S
+899	東		トウ	ひがし、あずま	Este (punto cardinal)	2
+900	松		ソウ	まつ	Pino	4
+901	板		バン		Tablero	3
+902	析				Corte	S
+903	林		リン	はやし	Árboles	1
+904	枚		マイ		nº de objetos planos	6
+905	果		カ	は・たす	Fruta	4
+906	枝			かつら	Rama	5
+907	枠				Marco	S
+908	枢				Bisagra	S
+909	枯			か・れる	Marchitar	S
+910	架				Estante	S
+911	柄			がら	Diseño	S
+912	某				Fulano	S
+913	染		セン	そ・める、し・める	Tintura, teñir	6
+914	柔		ジュウ	やわら、やわ・らかい	Tender	S
+915	柱		チュウ	はしら	Pillar	3
+916	柳		リュウ	やぎ、やなぎ	Sauce	S
+917	査		サ		Investigar	5
+918	栄		エイ	さか・える	Prosperar, florecer	4
+919	栓				Enchufe	S
+920	校		コウ		Escuela	1
+921	株		カブ		Tocón, raíz, acciones de bolsa	6
+922	核				Núcleo	S
+923	根		コン	ね	Raíz	3
+924	格		カク		Estado	5
+925	栽				Plantación	S
+926	桃			もも	Melocotonero	S
+927	案		アン		Idea, plan	4
+928	桑			くわ	Mora	S
+929	桜	櫻	オウ	さくら	Cerezo	5
+930	桟				Andamio	S
+931	梅		バイ	うめ	Ciruela	4
+932	械		カイ	かせ	Artículo, instrumento	4
+933	棄		キ		Abandonar	S
+934	棋		ギ		Pieza de ajedrez	S
+935	棒		ボウ		Barra, vara	6
+936	棚				Estante	S
+937	棟		トウ		Parhilera (arquitectura)	S
+938	森		シン	もり	Bosque, selva	1
+939	棺				Ataúd	S
+940	植		ショク	う・える	Plantar	3
+941	検		ケン		Examinar, analizar	5
+942	業		ギョウ		Negocio	3
+943	極		キョク、ゴク	きわ（み）	Polo, extremo	4
+944	楼		ロウ		Atalaya	S
+945	楽		ラク	たの・しい、たの・しむ	Música	2
+946	概		ガイ		Delineado	S
+947	構		コウ	かま・う	Construir	5
+948	様		ヨウ	さま	Señor	3
+949	槽				IVA	S
+950	標		ヒョウ	しるべ	Señal, indicador	4
+951	模		モ、ボ		Modelo, imitación	6
+952	権		ケン		Derecho	6
+953	横		オウ	よこ	Lado	3
+954	樹		ジュ	き	Árbol, vegetación	6
+955	橋		キョウ	はし	Puente	3
+956	機		キ	はた	Máquina, telar	4
+957	欄				Columna	S
+958	欠		ケツ	か・ける	Romperse	4
+959	次		ジ	つぎ、つ・ぐ	Siguiente	3
+960	欧				Europa	S
+961	欲		ヨク	ほ・しい	Querer, desear	6
+962	欺				Engaño	S
+963	款				Renombre	S
+964	歌		カ	うた	Canción	2
+965	歓				Delicia	S
+966	止		シ	とま・る	Detenerse	2
+967	正		せい	タダ・シイ	Correcto	1
+968	武		ブ、ム		militar	5
+969	歩			あるく	Paso, caminar	2
+970	歯		シ	は	Diente	3
+971	歳				Fin de año	S
+972	歴		レキ		Pasar tiempo	4
+973	死		シ	し・ぬ	Muerte, morir	3
+974	殉				Martirio	S
+975	殊				Particularmente	S
+976	残		ザン	のく・る	Quedar, dejar	4
+977	殖				Aumentar, incrementar	S
+978	殴				Asalto	S
+979	段		ダン		Escalón, paso	6
+980	殺		サツ	こる・す	Matar, asesinar	4
+981	殻				Cáscara	S
+982	殿				Señor	S
+983	母		ボ	はは、か	Madre	2
+984	毎		マイ		Cada	2
+985	毒		ドク		Veneno	4
+986	比		ヒ	くら・べる	Comparar	5
+987	毛		モウ	け	Pelaje, vello	2
+988	氏		シ	うじ	Apellido	4
+989	民		ミ	たみ	Gente	4
+990	気		キ、ケ		Espíritu	1
+991	水		スイ	みず	Agua	1
+992	氷			こおり	Hielo	3
+993	永		エイ	なが・い	Eterno, infinito	5
+994	汁				Sopa	S
+995	求		キュウ	もと・む	Pedir, demandar	4
+996	汗				Dulce	S
+997	汚			きたな・い	Sucio	S
+998	江				Riachuelo	S
+999	池		チ	いけ	Lago	2
+1000	決		ケツ	き・める	Decidir	3
+1001	汽				vapor	2
+1002	沈				lavabo	S
+1003	沖			おき	Alta Mar	S
+1004	没				ahogar	S
+1005	沢				pantano	S
+1006	河				Río	5
+1007	沸				bullir	S
+1008	油		ユ	あぶら	petróleo, aceite	3
+1009	治				governar, curar	4
+1010	沼				Pantano	S
+1011	沿				correr codo con codo	6
+1012	況				Por Supuesto	S
+1013	泉				fuente	6
+1014	泊				Pernoctar	S
+1015	泌				rezumar	S
+1016	法				método,regla	4
+1017	泡				burbujas	S
+1018	波			なみ	ola	3
+1019	泣			なく	llorar	4
+1020	泥				fango	S
+1021	注				pobre	3
+1022	泰				pacífico	S
+1023	泳			およ（ぐ）	Nadar	3
+1024	洋				océano	3
+1025	洗				lavar	6
+1026	洞				guarida	S
+1027	津				cielo	S
+1028	洪				inundación	S
+1029	活			かつ	Activo	2
+1030	派				secta	6
+1031	流				arroyo	3
+1032	浄				limpiar, limpio	S
+1033	浅		セン	あさ（い）	superficial	4
+1034	浜				costa	S
+1035	浦				bahía	S
+1036	浪				vagar	S
+1037	浮				flotar	S
+1038	浴			あらう	lavar	4
+1039	海		カイ	うみ	mar	2
+1040	浸				inmerso	S
+1041	消			けす	Extinguir	3
+1042	涙				lágrimas	S
+1043	涯				Horizonte	S
+1044	液				fluido	5
+1045	涼				refrescante	S
+1046	淑				gracioso	S
+1047	淡				diluido	S
+1048	深				profundo	3
+1049	混				mezcla	5
+1050	添				adjunto	S
+1051	清				puro	4
+1052	渇				sed	S
+1053	済				establecerse, colonizar	6
+1054	渉				vado	S
+1055	渋				astringente	S
+1056	渓				cordillera	S
+1057	減				decrecer	5
+1058	渡				transitar	S
+1059	渦				remolino	S
+1060	温				tibio	3
+1061	測				Sondear	5
+1062	港				muelle	3
+1063	湖				Lago	3
+1064	湯				agua caliente	3
+1065	湾				golfo	S
+1066	湿				húmedo	S
+1067	満				lleno	4
+1068	源				Origen	6
+1069	準				estándar	5
+1070	溝				canalón	S
+1071	溶				derretir	S
+1072	滅				destruir	S
+1073	滋				alimentar, amamantar	S
+1074	滑				resbaloso	S
+1075	滝				cascada	S
+1076	滞				estancarse	S
+1077	滴				goteo, gotear	S
+1078	漁		ギョ、リョウ		Pescar	4
+1079	漂				ir a la deriva	S
+1080	漆				laca	S
+1081	漏				filtrarse, filtración	S
+1082	演				actuar, representar	5
+1083	漠				vago	S
+1084	漢				China	3
+1085	漫				dibujo, caricatura	S
+1086	漬				pepinillo	S
+1087	漸				regularmente, a ritmo constante	S
+1088	潔				puro, inmaculado	5
+1089	潜				sumergir	S
+1090	潟				laguna	S
+1091	潤				húmedo	S
+1092	潮				Marea	6
+1093	澄				lucidez	S
+1094	激				violento	6
+1095	濁				sonoro	S
+1096	濃				concentrado	S
+1097	濫				excesivo	S
+1098	濯				lavandería	S
+1099	瀬				rápidos	S
+1100	火		ホ , カ	ひ	Fuego	1
+1101	灯				Lámpara	4
+1102	灰			はい	Ceniza	6
+1103	災				Desastre	5
+1104	炉				corazón	S
+1105	炊				cocinero, cocinar	S
+1106	炎				Inflamación	S
+1107	炭				carbón	3
+1108	点			てん	Punto	2
+1109	為				Hacer	S
+1110	烈				Ardiente	S
+1111	無				nada	4
+1112	焦				carbonizar	S
+1113	然		ゼン、ネン		Tanto	4
+1114	焼				hornear	4
+1115	煙				humo, fumar	S
+1116	照		ショウ	て（らす）	Iluminar	4
+1117	煩				Angustia	S
+1118	煮				hervir	S
+1119	熟				madurar	6
+1120	熱				calor	4
+1121	燃				quemar	5
+1122	燥				secarse	S
+1123	爆				explotar, explosión	S
+1124	爵				barón	S
+1125	父			ちち	Padre	2
+1126	片				de una cara	6
+1127	版				bloque para impresión	5
+1128	牛			うし	vaca, buey	2
+1129	牧				raza	4
+1130	物			もの	cosa (objeto)	3
+1131	牲				sacrificio animal	S
+1132	特				especial	4
+1133	犠				sacrificio	S
+1134	犬		ケン	いぬ	perro	1
+1135	犯				crimen	5
+1136	状				forma	5
+1137	狂				lunático	S
+1138	狩				caza	S
+1139	独				solo	5
+1140	狭				apretado, estrecho	S
+1141	猛				fiereza	S
+1142	猟				caza	S
+1143	猫			ねこ	gato	S
+1144	献				ofrenda	S
+1145	猶				además	S
+1146	猿				mono, simio	S
+1147	獄				prisión	S
+1148	獣				animal	S
+1149	獲				agarrar	S
+1150	玄				misterioso	S
+1151	率				tasa	5
+1152	玉			たま	bola	1
+1153	王			おう	Rey	1
+1154	珍				raro	S
+1155	珠				perla	S
+1156	班				escuadrón	6
+1157	現		ゲン		aparecer, aparentar	5
+1158	球				esfera	3
+1159	理		リ	り	Razón	2
+1160	琴			こと	Koto (Instrumento Japonés)	S
+1161	環				timbre, campanada	S
+1162	璽				sello imperial	S
+1163	瓶				florero	S
+1164	甘				dulce	S
+1165	甚				tremendamente	S
+1166	生			なま、いき（る）	vida	1
+1167	産		サン	う（む）	parir	4
+1168	用		ヨウ		Típico de...	2
+1169	田		タ		Campo de Arroz	1
+1170	由		ユウ		razón	3
+1171	甲				armadura	S
+1172	申			もう（す）	decir	3
+1173	男		ダン	おとこ	macho, masculino	1
+1174	町		チョウ	まち	Barrio	1
+1175	画		ガ、カク		tablero	2
+1176	界		カイ		mundo	3
+1177	畑				Plantación	3
+1178	畔				dique	S
+1179	留		ル、リュウ		detener	5
+1180	畜				ganado	S
+1181	畝				surco	S
+1182	略				abreviatura	5
+1183	番		バン		orden	2
+1184	異				poco común	6
+1185	畳				esterilla del tatami	S
+1186	疎				alienar	S
+1187	疑				duda	6
+1188	疫				epidémico	S
+1189	疲				exhausto	S
+1190	疾				rápidamente	S
+1191	病				enfermo	3
+1192	症				síntomas	S
+1193	痘				sífilis	S
+1194	痛			いたい	dolor	6
+1195	痢				diarrea	S
+1196	痴				estúpido	S
+1197	療				sano	S
+1198	癒				sanar	S
+1199	癖				peculiaridad	S
+1200	発				partida (de viaje)	3
+1201	登				escalar	3
+1202	白		ハク	しろ（い）	Blanco	1
+1203	百			ひゃく	Cien	1
+1204	的				Típico de...	4
+1205	皆				Todos	S
+1206	皇				emperador	6
+1207	皮				piel	3
+1208	皿				plato	3
+1209	盆				cuenco	S
+1210	益				beneficio	5
+1211	盗				robar	S
+1212	盛				próspero	6
+1213	盟				alianza	6
+1214	監				supervisar	S
+1215	盤				bandeja	S
+1216	目			め	Ojo	1
+1217	盲				ciego	S
+1218	直				Directamente	2
+1219	相				mutuo	3
+1220	盾				escudo	S
+1221	省		ショウ	はぶ（く）	Reflexionar	4
+1222	看				vigilar	6
+1223	県				prefectura	3
+1224	真				Verdad	3
+1225	眠				dormir	S
+1226	眺				mirar	S
+1227	眼				globo ocular	5
+1228	着			き（る）	vestir	3
+1229	睡				somnoliento	S
+1230	督				entrenar	S
+1231	瞬				guiñar	S
+1232	矛				alabarda	S
+1233	矢			や	Flecha	2
+1234	知			しる	saber	2
+1235	短				corto	3
+1236	矯				rectificar	S
+1237	石			いし	Piedra	1
+1238	砂				arena	6
+1239	研				afilado	3
+1240	砕				aplastar	S
+1241	砲				cañón	S
+1242	破				rasgar	5
+1243	硝				Nitrato	S
+1244	硫				azufre	S
+1245	硬				duro, tieso	S
+1246	碁				ir	S
+1247	碑				lápida	S
+1248	確				certeza	5
+1249	磁				imán	6
+1250	磨				molino	S
+1251	礁				acantilado	S
+1252	礎				piedra angular	S
+1253	示				indicar	5
+1254	礼				gracias	3
+1255	社			しゃ	Compañía	2
+1256	祈				rezar	S
+1257	祉				armamento	S
+1258	祖				ancestro	5
+1259	祝				celebrar	4
+1260	神			かみ	dios	3
+1261	祥				prometedor	S
+1262	票				balota	4
+1263	祭				festival	3
+1264	禁				prohibición	5
+1265	禅				Zen	S
+1266	禍				calamidad	S
+1267	福				suerte	3
+1268	秀				excelencia	S
+1269	私			わたくし	yo	6
+1270	秋			あき	otoño	2
+1271	科				sección	2
+1272	秒				segundo (tiempo)	3
+1273	秘				secreto	6
+1274	租				tarifa	S
+1275	秩				regularidad	S
+1276	称				apelación	S
+1277	移				cambio, turno	5
+1278	程				extensión	5
+1279	税				impuesto	5
+1280	稚				inmaduro	S
+1281	種				tipo de	4
+1282	稲				planta de arroz	S
+1283	稼				ganancias	S
+1284	稿				esbozo	S
+1285	穀				cereales	6
+1286	穂				oreja	S
+1287	積		セツ	つ（もる）	acumular	4
+1288	穏				calma	S
+1289	穫				cosecha	S
+1290	穴				hoyo	6
+1291	究				investigación	3
+1292	空			そら	firmamento	1
+1293	突				apuñalar	S
+1294	窃				sigilo	S
+1295	窒				conectar (un cable)	S
+1296	窓				ventana	6
+1297	窮				endurecer	S
+1298	窯				horno	S
+1299	立				ponerse de pie	1
+1300	竜				dragón	S
+1301	章				capítulo	3
+1302	童				juvenil	3
+1303	端				borde	S
+1304	競		キョウ	きそ（う）	competir	4
+1305	竹			たけ	bambú	1
+1306	笑		エ	わら（う）	risa	4
+1307	笛		テキ	ふえ	flauta	3
+1308	符				ficha	S
+1309	第				prefijo para número ordinal	3
+1310	筆				pincel de escritura	3
+1311	等				clase	3
+1312	筋				músculo	6
+1313	筒				cilindro	S
+1314	答				respuesta	2
+1315	策				esquema	6
+1316	箇				contadores para objetos	S
+1317	算			さん	Calcular	2
+1318	管		カン	くだ	tubo, pipa	4
+1319	箱				caja	3
+1320	節		セツ	ふし	nodo	4
+1321	範				patrón	S
+1322	築				fabricar	5
+1323	篤				ferviente	S
+1324	簡				simplicidad	6
+1325	簿				registrar	S
+1326	籍				alistarse	S
+1327	米		ベイ	こめ	arroz	2
+1328	粉				flúor	4
+1329	粋				chic	S
+1330	粒				granos	S
+1331	粗				basto, burdo	S
+1332	粘				pegajoso	S
+1333	粛				solemne	S
+1334	粧				cosméticos	S
+1335	精				refinado	5
+1336	糖				azúcar	6
+1337	糧				provisiones	S
+1338	糸			いと	madeja	1
+1339	系				linaje	6
+1340	糾				retorcer	S
+1341	紀				crónica	4
+1342	約				promesa	4
+1343	紅			くれない	rojo intenso	6
+1344	紋				blasón familiar	S
+1345	納				asentamiento	6
+1346	純				genuino	6
+1347	紙			かみ	Papel	2
+1348	級				fila	3
+1349	紛				distraer	S
+1350	素				elemental	5
+1351	紡				girar, giratorio	S
+1352	索				cordón	S
+1353	紫				púrpura	S
+1354	累				acumular	S
+1355	細			ほそ	Delgado	2
+1356	紳				señor	S
+1357	紹				introducir, presentar	S
+1358	紺				índigo	S
+1359	終			お（わる）	fin	3
+1360	組			くみ	Asociación	2
+1361	経				manejar	5
+1362	結				atadura, corbata	4
+1363	絞				estrangular	S
+1364	絡				entrelazar	S
+1365	給		キュウ		salario	4
+1366	統				unir	5
+1367	絵			え	Pintura	2
+1368	絶				discontinuo	5
+1369	絹				seda	6
+1370	継				heredar	S
+1371	続				continuo	4
+1372	維				fibra	S
+1373	綱				cabo grueso	S
+1374	網				redes, mallas	S
+1375	綿				algodón	5
+1376	緊				tenso	S
+1377	総				completo	5
+1378	緑				verde	3
+1379	緒				bragas	S
+1380	線			せん	Línea	2
+1381	締				apretado	S
+1382	編				reunir	5
+1383	緩				aflojarse	S
+1384	緯				horizontal	S
+1385	練				práctico	3
+1386	縁				afinidad	S
+1387	縄				cuerda	S
+1388	縛				atar	S
+1389	縦				vertical	6
+1390	縫				sierra	S
+1391	縮				encoger	6
+1392	績				explota	5
+1393	繁				lujoso	S
+1394	繊				esbelto	S
+1395	織				tejer	5
+1396	繕				zurcido	S
+1397	繭				capullo	S
+1398	繰				sinuoso	S
+1399	缶				lata de estaño	S
+1400	罪				culpa	5
+1401	置				poner	4
+1402	罰				penalidad	S
+1403	署				oficina gubernamental	6
+1404	罷				retirar	S
+1405	羅				gaza	S
+1406	羊				oveja	3
+1407	美				belleza	3
+1408	群				copo (de nieve), bandada (de aves)	5
+1409	義				rectitud	5
+1410	羽			はね	pluma	2
+1411	翁				anciano venerable	S
+1412	翌				lo siguiente	6
+1413	習			なら（う）	aprender	3
+1414	翻				tirar	S
+1415	翼				ala	S
+1416	老				anciano	4
+1417	考			かんがえる	pensar	2
+1418	者				alguien	3
+1419	耐				resistente	S
+1420	耕				caja registradora	5
+1421	耗				decrecer	S
+1422	耳			みみ	oreja	1
+1423	聖				santo	6
+1424	聞		ブン	き（く）	oír	2
+1425	聴				escuchar	S
+1426	職				empleo	5
+1427	肉			にく	carne	2
+1428	肌				textura	S
+1429	肖				Semejanza	S
+1430	肝				hígado	S
+1431	肢				extremidad	S
+1432	肥				fertilizante	5
+1433	肩				hombro	S
+1434	肪				obeso	S
+1435	肯				acuerdo	S
+1436	育				alimentar	3
+1437	肺				pulmones	6
+1438	胃			い	Estómago	4
+1439	胆				Vesícula Biliar	S
+1440	背				espalda	6
+1441	胎				útero	S
+1442	胞				placenta	S
+1443	胴				maletero	S
+1444	胸				pecho	6
+1445	能				habilidad	5
+1446	脂				grasa, gordo	S
+1447	脅				amenazar	S
+1448	脈				vena	4
+1449	脚				pata, pierna	S
+1450	脱				desvestir	S
+1451	脳				cerebro	6
+1452	脹				dilatarse	S
+1453	腐				pudrir	S
+1454	腕				brazo	S
+1455	腰				entrañas	S
+1456	腸		チョウ	はらわた	intestinos	4
+1457	腹				abdomen	6
+1458	膚				piel	S
+1459	膜				membrana	S
+1460	膨				hincharse	S
+1461	臓		ゾウ、ソウ	はらわた	vísceras	6
+1462	臣		ジン		retenedor	4
+1463	臨				mirar	6
+1464	自		ジ	みずから	Uno Mismo	2
+1465	臭				Apestar	S
+1466	至				climax	6
+1467	致				hacer	S
+1468	興				entretenimiento	5
+1469	舌				Lengua	5
+1470	舎				casita	5
+1471	舗				pavimento	S
+1472	舞				danza	S
+1473	舟				bote	S
+1474	航		コウ		navegar	4
+1475	般				generalmente	S
+1476	舶				buque	S
+1477	船				bote	2
+1478	艇				bote de remos	S
+1479	艦				acorazado (barco de guerra)	S
+1480	良		リョウ	よい、いい	bueno	4
+1481	色			いろ	color	2
+1482	芋				papa	S
+1483	芝				césped	S
+1484	花			はな	flor	1
+1485	芳				perfume	S
+1486	芸				arte	4
+1487	芽				capullo de flor	4
+1488	苗				planta de semillero	S
+1489	若				joven	6
+1490	苦				sufrir	3
+1491	英			えい	Inglaterra	4
+1492	茂				maleza	S
+1493	茎				acechar	S
+1494	茶			ちゃ	té	2
+1495	草			くさくさ	hierba	1
+1496	荒				laid waste	S
+1497	荘				villa	S
+1498	荷				equipaje	3
+1499	菊				crisantemo	S
+1500	菌				germen	S
+1501	菓				productos de confitería	S
+1502	菜				vegetal	4
+1503	華				esplendor	S
+1504	落				caer	3
+1505	葉			は	hoja	3
+1506	著				de renombre, reconocido	6
+1507	葬				entierro	S
+1508	蒸				vapor	6
+1509	蓄				acumular	S
+1510	蔵				bodega	6
+1511	薄				diluir	S
+1512	薦				recomendar	S
+1513	薪				combustible	S
+1514	薫				aromático	S
+1515	薬		やく	くすり	medicina	3
+1516	藩				clan	S
+1517	藻				alga marina	S
+1518	虐				tiranizar	S
+1519	虚				nulo	S
+1520	虜				cautivo	S
+1521	虞				desasosiego	S
+1522	虫			むし	insecto	1
+1523	蚊				mosquito	S
+1524	蚕				gusano de seda	6
+1525	蛇				serpiente	S
+1526	蛍			ほたる	luciérnaga	S
+1527	蛮				bárbaro	S
+1528	融				disolver	S
+1529	血			ち	sangre	3
+1530	衆				masas	6
+1531	行			い（く）	ir	2
+1532	術		ジュツ		arte	5
+1533	街				calle	4
+1534	衛				defensa	5
+1535	衝				colisionar	S
+1536	衡				equilibrio	S
+1537	衣			ころも	ropa	4
+1538	表		ヒョウ	あらわ（す）	expresar	3
+1539	衰				declinar	S
+1540	衷				lo más profundo	S
+1541	袋			ふくろ	saco	S
+1542	被				provocar	S
+1543	裁				juez	6
+1544	裂				partir (dividir)	S
+1545	装				atuendo	6
+1546	裏				Atrás	6
+1547	裕				abundante	S
+1548	補				suplemento	6
+1549	裸				desnudo	S
+1550	製				manufactura	5
+1551	複				duplicar	5
+1552	褐				pardo	S
+1553	褒				oración	S
+1554	襟				cuello	S
+1555	襲				atacar	S
+1556	西		セイ	にし	oeste	2
+1557	要		ヨウ		necesidad	4
+1558	覆				volcar	S
+1559	覇				hegemonía	S
+1560	見		ケン、ゲン	み（る）	Mirar	1
+1561	規				regla	5
+1562	視				buscar	6
+1563	覚			おぼ（える）	memorizar	4
+1564	覧		ラン		estudio y consideración	6
+1565	親			おや	Padre	2
+1566	観		カン		observar	4
+1567	角			かく	Ángulo	2
+1568	解		カイ		desatar	5
+1569	触				contacto	S
+1570	言		ゲン	い（う）	decir	2
+1571	訂				revisar	S
+1572	計		ケイ		medir	2
+1573	討				castizo	6
+1574	訓		クン		instrucción	4
+1575	託				consigna	S
+1576	記		キ		escribir	2
+1577	訟				demandar	S
+1578	訪		ホウ		visita	6
+1579	設				establecer	5
+1580	許		キョ	ゆる（せる）	permiso	5
+1581	訳		ヤク		traducir	6
+1582	訴				sue	S
+1583	診				revisar	S
+1584	証				evidencia	5
+1585	詐				mentira	S
+1586	詔				edicto imperial	S
+1587	評				evaluar	5
+1588	詞				poesía	6
+1589	詠				recitación	S
+1590	試				prueba	4
+1591	詩				poema	3
+1592	詰				empacado	S
+1593	話		ワ	はな（す）	hablar	2
+1594	該				citado anteriormente	S
+1595	詳				detallado	S
+1596	誇				presumir	S
+1597	誉				reputación	S
+1598	誌				documento	6
+1599	認				reconocer	6
+1600	誓				venia, voto	S
+1601	誕				nacimiento	6
+1602	誘				atraer	S
+1603	語			ご	lenguaje	2
+1604	誠				sinceridad	6
+1605	誤				error	6
+1606	説				teoría	4
+1607	読			よむ	Leer	2
+1608	課				sección	4
+1609	調				investigar	3
+1610	談				discutir	3
+1611	請				solicitar	S
+1612	論				teoría	6
+1613	諭				reprender, reprimenda	S
+1614	諮				consultar con	S
+1615	諸				varios	6
+1616	諾				consentimiento	S
+1617	謀				conspirar	S
+1618	謁				audiencia	S
+1619	謄				mimeógrafo	S
+1620	謙				modesto	S
+1621	講				lectura	5
+1622	謝				disculpa	5
+1623	謡				canto noh	S
+1624	謹				discreto	S
+1625	識				discriminatorio	5
+1626	譜				escala musical	S
+1627	警				protegerse	6
+1628	議				deliberación	4
+1629	譲				aplazar	S
+1630	護				proteger, salvaguardar	5
+1631	谷			たに	Valle	2
+1632	豆				fríjoles	3
+1633	豊				abundante	5
+1634	豚				puerco (cerdo)	S
+1635	象				elefante	4
+1636	豪				agobiante	S
+1637	貝				Almeja	1
+1638	貞				Recto	S
+1639	負				Derrota	3
+1640	財				riqueza	5
+1641	貢				Tributo	S
+1642	貧				pobre	5
+1643	貨				cargamento	4
+1644	販				mercado	S
+1645	貫				Traspasar	S
+1646	責				culpar	5
+1647	貯		チョ		ahorros	4
+1648	貴				precioso	6
+1649	買			か（う）	comprar	2
+1650	貸				prestar	5
+1651	費				gasto	4
+1652	貿				cambio, negocio	5
+1653	賀				felicitaciones	5
+1654	賃				tarifa	6
+1655	賄				Soborno	S
+1656	資				recursos	5
+1657	賊				asaltante	S
+1658	賓				V.I.P.	S
+1659	賛				aprobar	5
+1660	賜				conceder	S
+1661	賞				premio	4
+1662	賠				compensación	S
+1663	賢				inteligente	S
+1664	賦				impuesto	S
+1665	質				calidad	5
+1666	購				suscripción	S
+1667	贈				presentes	S
+1668	赤			あか（い）	rojo	1
+1669	赦				perdón	S
+1670	走			はし（る）	correr	2
+1671	赴				proceder	S
+1672	起			おき（る）	despertar	3
+1673	超				trascender	S
+1674	越				cruce	S
+1675	趣				lo esencial	S
+1676	足			あし	pie	1
+1677	距				larga distancia	S
+1678	跡				huellas	S
+1679	路				camino	3
+1680	跳				salto	S
+1681	践				pisar	S
+1682	踊				brinco	S
+1683	踏				paso	S
+1684	躍				salto	S
+1685	身				cuerpo	3
+1686	車		シャ	くるま	carro	1
+1687	軌				surco	S
+1688	軍		グン		ejército	4
+1689	軒				pisos	S
+1690	軟				suave	S
+1691	転				girar	3
+1692	軸				eje	S
+1693	軽				ligero	3
+1694	較				contraste	S
+1695	載				conducir	S
+1696	輝				radiación	S
+1697	輩				camarada	S
+1698	輪				rueda	4
+1699	輸				transporte	5
+1700	轄				control	S
+1701	辛			から（い）	picante	S
+1702	辞				renunciar	4
+1703	辱				avergonzar	S
+1704	農				cultivo	3
+1705	辺				entorno	4
+1706	込			こ（む）	abarrotado	S
+1707	迅				veloz	S
+1708	迎				bienvenida	S
+1709	近			ちか（い）	cercano	2
+1710	返				retorno	3
+1711	迫				urgencia	S
+1712	迭				transferir	S
+1713	述				mención	5
+1714	迷				perderse	5
+1715	追				seguir	3
+1716	退				retirada	5
+1717	送				enviar	3
+1718	逃				escaparse	S
+1719	逆				invertido	5
+1720	透				transparente	S
+1721	逐				perseguir	S
+1722	逓				relevo	S
+1723	途				ruta	S
+1724	通			つう	Atravesar	2
+1725	逝				difunto	S
+1726	速				veloz	3
+1727	造				crear	5
+1728	連				take along	4
+1729	逮				apresar	S
+1730	週			しゅう	Semana	2
+1731	進				avance	3
+1732	逸				desviar	S
+1733	遂				consumar	S
+1734	遅				lento	S
+1735	遇				entrevista	S
+1736	遊				tocar, jugar	3
+1737	運				llevar	3
+1738	遍				por doquier	S
+1739	過				ir más allá	5
+1740	道		ドウ	みち	camino	2
+1741	達				conseguir	4
+1742	違				discrepar	S
+1743	遠			とお（い）	lejos	2
+1744	遣				despachar	S
+1745	適				suitable	5
+1746	遭				encuentro	S
+1747	遮				interceptar	S
+1748	遵				acatar	S
+1749	遷				transición	S
+1750	選				escoger	4
+1751	遺				legar	6
+1752	避				evadir	S
+1753	還				devolver	S
+1754	邦				país de origen	S
+1755	邪				malvado	S
+1756	邸				residencia	S
+1757	郊				afueras	S
+1758	郎				hijo	S
+1759	郡				condado	4
+1760	部				parte	3
+1761	郭				recinto	S
+1762	郵				correo	6
+1763	郷				pueblo natal	6
+1764	都				metrópoli	3
+1765	酌				trabajar de camarero	S
+1766	配				distribuir	3
+1767	酒		シュ	さけ	bebida alcohólica	3
+1768	酔				borracho	S
+1769	酢				vinagre	S
+1770	酪				productos lácteos	S
+1771	酬				pagar	S
+1772	酵				fermentación	S
+1773	酷				cruel	S
+1774	酸				ácido	5
+1775	醜				feo	S
+1776	醸				fabricar, hacer	S
+1777	釈				explicación	S
+1778	里				Ri	2
+1779	重				pesado	3
+1780	野			の	Campo	2
+1781	量				Cantidad	4
+1782	金		キン	かね	oro	1
+1783	針				aguja	6
+1784	釣				pesca (con caña)	S
+1785	鈍				aburrido	S
+1786	鈴				campanita	S
+1787	鉄			てつ	hierro	3
+1788	鉛				plomo	S
+1789	鉢				ponchera	S
+1790	鉱				mineral	5
+1791	銀				plata	3
+1792	銃				arma	S
+1793	銅				cobre	5
+1794	銑			せん	hierro en lingotes	S
+1795	銘				inscripción	S
+1796	銭				moneda	5
+1797	鋭				acabado en punta	S
+1798	鋳				fundición	S
+1799	鋼				acero	6
+1800	錘				plomo	S
+1801	錠				cerradura	S
+1802	錬				tempering	S
+1803	錯				confundido	S
+1804	録				Registro, Grabación	4
+1805	鍛				forjar	S
+1806	鎖				cadena	S
+1807	鎮				tranquilizar	S
+1808	鏡		キョウ	かがみ	espejo	4
+1809	鐘				campana	S
+1810	鑑				espécimen	S
+1811	長			なが	Largo	2
+1812	門			もん	entradas	2
+1813	閉			と（じる）	rrado	6
+1814	開				abierto	3
+1815	閑				ocio	S
+1816	間		カン	あいだ	intervalo	2
+1817	関				relacionado	4
+1818	閣				alto	6
+1819	閥				clique	S
+1820	閲				Repaso	S
+1821	闘				pelea	S
+1822	防				prevenir	5
+1823	阻				frustrar	S
+1824	附				Pegado, unido	S
+1825	降			お（りる）	descender	6
+1826	限				límite	5
+1827	陛				alteza	6
+1828	院		イン		institución	3
+1829	陣				campo	S
+1830	除				excluir	6
+1831	陥				colapsar	S
+1832	陪				obediencia	S
+1833	陰				sombra	S
+1834	陳				exhibición	S
+1835	陵				mausoleo	S
+1836	陶		トウ		alfarería	S
+1837	陸				tierra	4
+1838	険		ケン		Apresurado	5
+1839	陽		ヨウ		Luz del sol,sol	3
+1840	隅				esquina	S
+1841	隆				Joroba	S
+1842	隊				grupo	4
+1843	階		カイ		piso de un edificio	3
+1844	随				seguir	S
+1845	隔				aislar	S
+1846	際		サイ		ocasión	5
+1847	障				herir	6
+1848	隠				conceal	S
+1849	隣			となり	Cercano	S
+1850	隷				esclavo	S
+1851	隻				embarcasiones	S
+1852	雄				macho, masculino	S
+1853	雅				Gracioso	S
+1854	集		シュウ	あつ（まる）	Recoger	3
+1855	雇				Emplear	S
+1856	雌				Femenino	S
+1857	雑				Diverso	5
+1858	離				detach	S
+1859	難		ナン	むずか（しい）	Difícil	6
+1860	雨			あめ	Lluvia	1
+1861	雪			ゆき	Nieve	2
+1862	雰				Atmósfera	S
+1863	雲			くも	Nube	2
+1864	零			れい	cero	S
+1865	雷				relámpago	S
+1866	電		デン	でん	Electricidad	2
+1867	需				Pedir	S
+1868	震		シン		Temblor	S
+1869	霊				Espíritus	S
+1870	霜				Congelado	S
+1871	霧				Niebla	S
+1872	露				Rocío	S
+1873	青			あお（い）	azul	1
+1874	静		セイ	しず（か）	Tranquilo	4
+1875	非		ヒ		Negativo	5
+1876	面		メン		cara,máscara	3
+1877	革			かわ	Piel	6
+1878	靴			くつ	Zapatos	S
+1879	音		オン	おと	Sonido	1
+1880	韻				Rima	S
+1881	響				echo	S
+1882	頂				Cima, Aceptar Humildemente	6
+1883	項				Párrafo	S
+1884	順				Obedecer	4
+1885	預				Depositar	5
+1886	頑				Tozudo	S
+1887	頒				Tabique	S
+1888	領				territorio	5
+1889	頭		トウ	あたま	Cabeza	2
+1890	頻				Repetidamente	S
+1891	頼				Confianza	S
+1892	題		ダイ		Asunto	3
+1893	額				Ascender	5
+1894	顔			かお	cara	2
+1895	顕				aparecer	S
+1896	願			ねが（う）	petición	4
+1897	類			るい	Tipo	4
+1898	顧				Mirar atrás	S
+1899	風		フウ	かぜ	viento	2
+1900	飛		ヒ	と（ぶ）	volar	4
+1901	食		ショク	た（べる）	comer, comida	2
+1902	飢				Hambriento	S
+1903	飯				comida	4
+1904	飲		イン	の（む）	beber	3
+1905	飼			か（う）	domesticar	5
+1906	飽				sated	S
+1907	飾		ショク	(かざ)る	decorar	S
+1908	養		ヨウ	(やしな)う	Alentar	4
+1909	餓		ガ		hambrear	S
+1910	館		カン		Edificio Público	3
+1911	首		シュ	くび	Cuello	2
+1912	香		キョウ,コウ	か,かおり,(かお)る	incienso	S
+1913	馬		バ	うま,ま	caballo	2
+1914	駄		ダ		gravoso	S
+1915	駅		エキ		Estación	3
+1916	駆		ク	(かけ)る,(か)る	Conducir	S
+1917	駐		チュウ		Escala	S
+1918	騎		キ		Ecuestre	S
+1919	騒		ソウ	(さわ)ぐ	Bulliciosa	S
+1920	験		ケン,ゲン		Prueba	4
+1921	騰		ショウ	(か)つ,(まさ)る	Inflación	S
+1922	驚		キョウ	(おどろ)かす,(おどろ)く	Maravilla	S
+1923	骨		コツ	ほね	Hueso	6
+1924	髄		ズイ		Médula	S
+1925	高		コウ	たか,たか（い）,(たか)まる,(たか)める	alto, caro	2
+1926	髪		ハツ	かみ	Cabello de la cabeza	S
+1927	鬼		キ	おに	Fantasma,demonio	S
+1928	魂		コン	たましい	Alma	S
+1929	魅		ミ		Fascinación	S
+1930	魔		マ		Bruja	S
+1931	魚		ギョ,ウオ	さかな	Pescado	2
+1932	鮮		セン	(あざや)か	Fresco	S
+1933	鯨		ゲイ	くじら	Ballena	S
+1934	鳥		チョウ	とり	Pájaro	2
+1935	鳴		メイ	な（らす）,(な)く,(な)	Trinar	2
+1936	鶏		ケイ	にわとり	Gallina	S
+1937	麗		レイ	(うるわし)い	Lindo	S
+1938	麦		バク	むぎ	Trigo	2
+1939	麻		マ	あさ	Cáñamo	S
+1940	黄		オウ,コウ	き、こ	Amarillo	2
+1941	黒		コク	くろ（い）	Negro	2
+1942	黙		モク	(だま)る	Silencio	S
+1943	鼓		コ	つづみ	Tambor	S
+1944	鼻		ビ	はな	Nariz	3
+1945	齢		レイ		Edad	S
