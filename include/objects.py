@@ -20,6 +20,9 @@ class Kanji:
     def oldest(self):
         return self.kyuu or self.shin
     
+    def __call__(self):
+        return self.shin
+    
     def __str__(self):
         return f"""Id:\t{self.id}\nKanji:\t{self.shin}\nOn'yomi:\t{self.onyomi}\nKun'yomi:\t{self.kunyomi}\n"""
 
@@ -30,6 +33,9 @@ class Hanzi:
         self.simp = linels[1]
         self.trad = linels[2]
         self.pinyin = linels[3]
+    
+    def __call__(self):
+        return self.simp
     
     def __str__(self):
         return f"""Id:\t{self.id}\nSimplified:\t{self.simp}\nTraditional:\t{self.trad}\nPinyin:\t{self.pinyin}\n"""
@@ -47,6 +53,10 @@ class Container:
     
     def __getitem__(self, index):
         return self.items[index]
+    
+    def __call__(self, length=20):
+        for (i, el) in enumerate(iter(self)):
+            print(el(), end=' ' if (i+1)%length!=0 else '\n')
         
     def append(self, item):
         assert isinstance(item, self.kind)
