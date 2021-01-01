@@ -12,6 +12,7 @@ from copy import deepcopy
 
 from include.objects import Kanji, Hanzi, Container
 from report.report import Report
+from include.jap_support import *
 
 path_kanji = path.join(path.curdir, 'kanji.txt')
 path_hanzi = path.join(path.curdir, 'hanzi.txt')
