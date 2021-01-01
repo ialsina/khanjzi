@@ -11,6 +11,7 @@ from os import path
 from copy import deepcopy
 
 from include.objects import Kanji, Hanzi, Container
+from report.report import Report
 
 path_kanji = path.join(path.curdir, 'kanji.txt')
 path_hanzi = path.join(path.curdir, 'hanzi.txt')
@@ -92,3 +93,37 @@ plt.plot(id_match_kanji, normal_match, label='Kanji')
 plt.plot(id_match_hanzi, normal_match, label='Hanzi')
 plt.legend()
 plt.show()
+
+
+# Report ##################################################
+
+data = [ [
+        h.id,
+        k.oldest(),
+        k.shin,
+        h.simp,
+        k.kunyomi,
+        k.onyomi,
+        h.pinyin ] for (k, h) in zip(matches_kanji, matches_hanzi) ]
+cols = ['Hanzi ID', 'Kyuu/Trad', 'Shinjitai', 'Simplified', 'Kun\'yomi', 'On\'yomi', 'Pinyin']
+index = [k.id for k in matches_kanji]
+Report(data, cols, index, 'reportKH')
+
+data = [ [
+        k.oldest(),
+        k.shin,
+        k.kunyomi,
+        k.onyomi] for k in unmatch_kanji ]
+cols = ['Kyuushitai', 'Shinjitai', 'Kun\'yomi', 'On\'yomi']
+index = [k.id for k in unmatch_kanji]
+Report(data, cols, index, 'reportK')
+
+data = [ [
+        h.trad,
+        h.simp,
+        h.pinyin ] for h in unmatch_hanzi ]
+cols = ['Traditional', 'Simplified', 'Pinyin']
+index = [h.id for h in unmatch_hanzi]
+Report(data, cols, index, 'reportH')
+
+del data, cols, index, h, k
