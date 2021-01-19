@@ -21,7 +21,7 @@ def Report(data, columns, index, report='report'):
     html = template.render(my_table=styler.render())
         
     # Write the HTML file
-    with open(path.join(path.curdir, 'report', f'{report}.html'), 'w') as f:
+    with open(path.join(path.curdir, 'output', f'{report}.html'), 'w') as f:
         f.write(html)
     
         print(f'HTML exported: {report}.html')
