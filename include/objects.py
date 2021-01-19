@@ -12,10 +12,15 @@ class Kanji:
         self.id = int(linels[0])
         self.shin = linels[1]
         self.kyuu = linels[2]
-        self.onyomi = linels[3]
-        self.kunyomi = linels[4]
-        self.spanish = linels[5]
-        self.grade = linels[6]
+        self.radical = linels[3]
+        self.strokes = linels[4]
+        self.grade = linels[5]
+        self.year_added = linels[6]
+        self.english = linels[7]
+        self.onyomi = linels[8]
+        self.kunyomi = linels[10]
+        self.roomaji_onyomi = linels[9]
+        self.roomaji_kunyomi = linels[11]
     
     def oldest(self):
         return self.kyuu or self.shin
@@ -33,6 +38,13 @@ class Hanzi:
         self.simp = linels[1]
         self.trad = linels[2]
         self.pinyin = linels[3]
+        self.english = linels[4]
+        self.radical = linels[5]
+        self.strokes = linels[6]
+        self.hsk_level = linels[7]
+        self.general_standard = linels[8]
+        self.frequency_rank = linels[9]
+
     
     def __call__(self):
         return self.simp
