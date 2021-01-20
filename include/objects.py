@@ -13,7 +13,7 @@ class Kanji:
         self.shin = linels[1]
         self.kyuu = linels[2]
         self.radical = linels[3]
-        self.strokes = linels[4]
+        self.strokes = int(linels[4])
         self.grade = linels[5]
         self.year_added = linels[6]
         self.english = linels[7]
@@ -40,10 +40,10 @@ class Hanzi:
         self.pinyin = linels[3]
         self.english = linels[4]
         self.radical = linels[5]
-        self.strokes = linels[6]
-        self.hsk_level = linels[7]
+        self.strokes = int(linels[6])
+        self.hsk_level = int(linels[7])
         self.general_standard = linels[8]
-        self.frequency_rank = linels[9]
+        self.frequency_rank = int(linels[9])
 
     
     def __call__(self):
@@ -53,18 +53,31 @@ class Hanzi:
         return f"""Id:\t{self.id}\nSimplified:\t{self.simp}\nTraditional:\t{self.trad}\nPinyin:\t{self.pinyin}\n"""
 
 class Container:
-    def __init__(self, kind):
-        self.items = []
+    def __init__(self, kind, items=None):
+        assert kind is Kanji or kind is Hanzi
+
+        if items is None:
+            self._items = []
+        else:
+            assert isinstance(items, list)
+            assert all([isinstance(el, kind) for el in items])
+            self._items = items
+
         self.kind = kind
         
     def __iter__(self):
         return ContainerIterator(self)
     
     def __len__(self):
-        return len(self.items)
+        return len(self._items)
     
     def __getitem__(self, index):
-        return self.items[index]
+        if isinstance(index, slice):
+            return Container(self.kind, self._items[index])
+        elif isinstance(index, int):
+            return self._items[index]
+        else:
+            raise AssertionError('index must be integer or slice')
     
     def __call__(self, length=20):
         for (i, el) in enumerate(iter(self)):
@@ -72,20 +85,20 @@ class Container:
         
     def append(self, item):
         assert isinstance(item, self.kind)
-        self.items.append(item)
+        self._items.append(item)
     
     def remove(self, item):
-        self.items.remove(item)
+        self._items.remove(item)
     
     def get(self, attr):
         try:
-            return [getattr(el, attr) for el in self.items]
+            return [getattr(el, attr) for el in self._items]
         except:
             raise AttributeError
     
     def call(self, meth):
         try:
-            return [getattr(el, meth)() for el in self.items]
+            return [getattr(el, meth)() for el in self._items]
         except:
             raise AttributeError
     
